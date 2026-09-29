@@ -1,0 +1,7 @@
+account_id,customer_id,account_type,status,opened_date
+A1001,C001,Checking,Active,2024-01-16
+A1002,C002,Commercial,Active,2024-02-04
+A1003,C003,Checking,Closed,2024-02-22
+A1004,C004,Savings,Active,2024-03-13
+A1005,C005,Commercial,Active,2024-03-30
+
